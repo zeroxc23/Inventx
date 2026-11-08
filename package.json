@@ -1,0 +1,13 @@
+
+{
+  "name": "trabajos",
+  "version": "1.0.0",
+  "description": "Proyecto PHP y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "php -S localhost:8000"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
